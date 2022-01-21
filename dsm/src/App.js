@@ -5,6 +5,7 @@ function App() {
     <div style={{ textAlign: 'center' }}>
       <header>
         <Landingpage/>
+        <h1></h1>
       </header>
     </div>
   );
